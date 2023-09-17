@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/kg6Gv0K/1.jpg",
+      "title": "The Enigmatic Adventure",
+      "author": "Alice Johnson",
+      "author-img": "https://i.ibb.co/3WZt3M5/boy1.png",
+      "posted-date": "2023-09-17",
+      "reading-time": "45 minutes",
+      "hashtags": ["adventure", "mystery", "fiction"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/F6CcMJT/2.png",
+      "title": "Echoes of Destiny",
+      "author": "David Smith",
+      "author-img": "https://i.ibb.co/kQtpg7w/girl1.jpg",
+      "posted-date": "2023-09-16",
+      "reading-time": "60 minutes",
+      "hashtags": ["fantasy", "magic", "prophecy"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/kmPrC25/3.png",
+      "title": "Under the Starlit Sky",
+      "author": "Emily White",
+      "author-img": " https://i.ibb.co/ZLCv7qw/girl2.jpg",
+      "posted-date": "2023-09-15",
+      "reading-time": "40 minutes",
+      "hashtags": ["romance", "love", "stars"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/ZxFZCwH/4.jpg",
+      "title": "The Secrets Within",
+      "author": "John Anderson",
+      "author-img": "https://i.ibb.co/5KNKwwn/profile.png",
+      "posted-date": "2023-09-14",
+      "reading-time": "55 minutes",
+      "hashtags": ["mystery", "intrigue", "suspense"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/G7CsTJ7/7345.jpg",
+      "title": "A Journey Through Time",
+      "author": "Sophia Lee",
+      "author-img": " https://i.ibb.co/KbpWpYb/n0mm-wbsz-221020.jpg",
+      "posted-date": "2023-09-13",
+      "reading-time": "50 minutes",
+      "hashtags": ["time-travel", "history", "adventure"]
+    }
+  ]
+  
